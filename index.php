@@ -11,10 +11,10 @@
 		<header>
 			<div class="wrapper">
 				<div class="logo">
-					<a href="#">Tomorrow</a>
+					<a href="https://firstscaffold.herokuapp.com/">Tomorrow</a>
 				</div>
 				<nav>
-					<a href="#">Home</a> <a href="#">About</a> <a href="#">Sources</a>
+					<a href="https://firstscaffold.herokuapp.com/">Home</a> <a href="#">About</a> <a href="#">Sources</a>
 				</nav>
 			</div>
 		</header>
