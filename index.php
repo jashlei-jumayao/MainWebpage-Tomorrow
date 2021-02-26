@@ -46,15 +46,12 @@ Vaccines are a critical new tool in the battle against COVID-19 and it is hugely
 Safe and effective vaccines will be a gamechanger but for the foreseeable future we must continue wearing masks, physically distancing and avoiding crowds. Being vaccinated does not mean that we can throw caution to the wind and put ourselves and others at risk, particularly because it is still not clear the degree to which the vaccines can protect not only against disease but also against infection and transmission.</p>
 
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<h2>
+	Message of Hope
+</h1>
+<video controls>
+		<source width="1280" height="720" src="MATH PT.mp4" type="video/mp4">
+	</video>
 <h2 id="source">
 	Source
 </h2>
@@ -64,6 +61,7 @@ Safe and effective vaccines will be a gamechanger but for the foreseeable future
 			</div>
 		</div>
 	</div>
+	
 	<style>
 		* {
 	margin: 0;
