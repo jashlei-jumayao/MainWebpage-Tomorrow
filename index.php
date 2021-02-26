@@ -123,7 +123,7 @@ nav a {
 	color: #fff;
 }
 .content-area {
-	width: 150%;
+	width: 120%;
 	position: relative;
 	top: 450px;
 	background: #ebebeb;
