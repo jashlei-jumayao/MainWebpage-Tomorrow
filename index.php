@@ -127,7 +127,7 @@ nav a {
 	position: relative;
 	top: 450px;
 	background: #ebebeb;
-	height: 1900px;
+	height: 2100px;
 }
 .content-area h2 {
 	font-family: poppins;
