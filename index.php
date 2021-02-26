@@ -123,11 +123,11 @@ nav a {
 	color: #fff;
 }
 .content-area {
-	width: 100%;
+	width: 150%;
 	position: relative;
 	top: 450px;
 	background: #ebebeb;
-	height: 1500px;
+	height: 1700px;
 }
 .content-area h2 {
 	font-family: poppins;
